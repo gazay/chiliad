@@ -1,0 +1,7 @@
+torch
+torchvision
+munch
+tqdm
+scipy
+Pillow
+pretrainedmodels
