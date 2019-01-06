@@ -1,4 +1,4 @@
-# Originaly taken from https://github.com/julienc91/multidl/blob/master/multidl/download_manager.py
+# -*- coding: utf-8 -*-
 
 import os
 import time
@@ -172,4 +172,3 @@ class DownloadHandler:
 
     def cancel(self):
         self.downloader and self.downloader.cancel()
-
